@@ -1,10 +1,16 @@
  <div align="center">
-  <a href="[https://git.io/typing-svg](https://blazejek-development.netlify.app/)"><img height="75" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=365FAC&center=true&vCenter=true&multiline=true&random=true&width=435&height=75&lines=Hey+%F0%9F%91%8B%2C+I'm+B%C5%82a%C5%BCejek"/></a>
+  <img src="Baner GitHub.png" alt="Baner">
+</div>
+
+###
+ 
+ <div align="left">
+  <a href="[https://git.io/typing-svg](https://blazejek-development.netlify.app/)"><img height="75" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=365FAC&center=true&vCenter=true&multiline=true&random=true&width=375&height=75&lines=Hey+%F0%9F%91%8B%2C+I'm+B%C5%82a%C5%BCejek"/></a>
 </div>
 
 ###
 
-<h3 align="center">A passionate programmer from Poland 🧑‍💻</h3>
+<h3 align="left">A passionate programmer from Poland 🧑‍💻</h3>
 
 ###
 
